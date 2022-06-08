@@ -31,8 +31,13 @@
     background-size: cover;
     align-content: center;
     color: white;
-    background-position: center center;
+    background-position: 50% 50%;
     justify-content: space-around;
+}
+@media screen and (max-width: 768px){
+    .big-img{
+        background-position: 80% 50%;
+    }
 }
 .piz{
     width: 100%;
