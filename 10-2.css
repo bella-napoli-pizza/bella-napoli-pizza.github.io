@@ -1,0 +1,237 @@
+.navbar-brand img {
+    width: 50px;
+
+}
+
+.nav-item .nav-link {
+    color: black !important;
+    font-weight: 500;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item .nav-link:hover {
+    color: #FF5634 !important;
+
+}
+
+.nav-item {
+    border-right: 1px solid #FF5634;
+    margin-right: 5px;
+
+}
+
+.navbar-toggler {
+    border-color: #FF5634 !important;
+}
+.big-img{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(1.jpg);
+    height: 600px;
+    background-size: cover;
+    align-content: center;
+    color: white;
+    background-position: center center;
+    justify-content: space-around;
+}
+.piz{
+    width: 100%;
+    padding: 20px ;
+}
+.menu-title{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 4rem;
+  
+    
+}
+.menu .col-12{
+padding: 10px;
+
+}
+.card{
+    margin: 15px;
+    box-shadow: 0px 0px 10px gray;
+    background-color: black;
+    color: white;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.big-img p{
+    font-size: 1.2rem;
+}
+
+    .btn-orange{
+        /* width: 200px; */
+        text-align: center;
+        background-color: rgb(255, 115, 0);
+        border: 0;
+        border-radius: 5px;
+        padding: 10px ;
+        color: white;
+        font-weight: 600;
+        box-shadow: 0 2px 10px  rgb(255, 115, 0);
+        margin-top: 10px;
+        margin-bottom: 30px;
+        text-decoration: none;
+        transition: 0.5s;
+        
+    }
+    .btn-orange:hover{
+        box-shadow: 0 2px 10px  rgb(0, 0, 0); 
+        /*  */
+       color: white;
+    }
+    .btn-combo{
+        text-align: center;
+        background-color: rgb(0, 0, 0);
+        border: 0;
+        border-radius: 5px;
+        padding: 10px ;
+        color: rgb(255, 115, 0);
+        font-weight: 900;
+        box-shadow: 0 2px 10px  rgb(255, 115, 0);
+        margin-top: 2px;
+        margin-bottom: 30px;
+        text-decoration: none;
+        transition: 0.5s;
+        display: block;
+    }
+    .btn-combo:hover{
+        color: rgb(255, 115, 0);
+        box-shadow: 0 2px 10px  rgb(0, 0, 0); 
+    }
+    body{
+        font-family: 'Montserrat', sans-serif;
+      
+    }h1,h2,h3, p{
+       font-weight: 300;
+   }
+    footer{
+        background-color: black;
+        padding-top:30px ;
+        padding-bottom: 30px;
+    }
+    footer .text{
+color: white;
+text-align: right;
+
+    }
+    .socio-item{
+        color: gray;
+        font-size: 2.5rem;
+        transition: 0.5s;
+        margin-right: 10px;
+        
+    }
+    .socio-item:hover{
+color: #FF5634;
+    }
+    .card-body{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+    .link-top{
+        position: fixed;
+        bottom: 50px;
+        right: 50px;
+        padding: 10px;
+        background-color: brown;
+        color: white;
+        text-decoration: none;
+        z-index: 5;
+        box-sizing: border-box;
+     
+        font-weight: 600;
+        border-radius: 5px;
+    }
+    .link-top:hover{
+        border: 1px solid white;
+    }
+    .menu{
+        margin-bottom: 100px;
+    }
+
+
+    .combo-card img{
+        width: 100%;
+    }
+    .combo-card {
+        margin: 20px;
+        padding: 20px;
+
+    }
+    .text-center{
+        margin-top: 100px;
+        margin-bottom: 50px;
+        text-align: center;
+        font-size: 4rem;
+    }
+   .combo-card img{
+    border: 2px solid black;
+   }
+   .bort img{
+width: 100%;
+   }
+   .bort1 img{
+    width: 100%;
+       }
+   .bort1 h1,h2{
+    
+    
+   }
+   .bort h1,h2{
+    
+    
+   }
+   .bort1{
+       padding-top: 30px;
+       align-items: center;
+   }
+    .hb{
+       background-image: url(q6.jpg);
+       height: 500px;
+     
+    
+       background-size: cover;
+       background-position: 50% 50%;
+       align-items: center;
+       /* padding-top: 50px; */
+
+   }
+   .hb>h2 {
+ font-weight: 700 !important;
+align-content: center;
+   }
+   .hb>h3{
+    font-weight: 500 !important;
+   }
+   .men-title{
+       padding-bottom: 30px;
+       margin-top: 100px;
+       margin-bottom: 30px;
+       text-align: center;
+       font-size: 4rem;
+   }
+   .about img{
+width: 100%;
+   }
+   .ab{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 4rem;
+  
+   }
+   .about {
+    padding-bottom: 50px;
+   }
+ 
+   
+     .word{
+       font-weight:900px ;
+       color: #FF5634;
+   }
