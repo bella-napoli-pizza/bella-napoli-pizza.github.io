@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="ua">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoodie Ukrainian</title>
+    <link rel="shortcut icon" href="20.png" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/2293037ed9.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="23.css">
+</head>
+
+<body>
+    <a href="#">
+        <div class="link-top">
+            На верх
+        </div>
+    </a>
+
+
+    
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" id="to-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"><img src="20.png" alt="bella napoli pizza"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#menu">Товари</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#menu2">Наші соцмережі</a>
+                    </li>
+                   
+                  
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+    <div class="container-fluid chelboj">
+        <a id="real" href=""></a>
+        <div class="row stadium">
+
+            <div class="col-md-12">
+
+               <div class="tx"><p>Hoodie Ukrainian </p></div> 
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="container-fluid">
+        
+        <h2 class="menu-title" id="menu">Оберіть для себе товар</h2>
+        <div class="row menu ">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники</div>
+                    <div class="card-body">
+
+                        <p class="card-text"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio. </p>
+                        <p>Ціна: 155грн</p>
+                      
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio. </p>
+                        <p>Ціна: 150грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники</div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 160грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 150грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники</div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 180грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio. </p>
+                        <p>Ціна: 150грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники</div>
+                    <div class="card-body">
+
+                        <p class="card-text">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 150грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 155грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники</div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 155грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.
+                        </p>
+                        <p>Ціна: 145грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники</div>
+                    <div class="card-body">
+
+                        <p class="card-text">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 155грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 155грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 140грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 100грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+            
+         
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.</p>
+                        <p>Ціна: 155грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                <div class="card h-100 border-secondary">
+                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <div class="card-header">Навушники </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor optio dicta sint soluta unde numquam culpa. Pariatur nesciunt quae animi assumenda cupiditate laborum, deleniti veniam necessitatibus enim labore distinctio.
+
+                             </p>
+                        <p>Ціна: 110грн</p>
+                        <a href="https://www.instagram.com/hoodie_ukrainian/" class="btn-orange">Замовити </a>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+    
+
+
+
+    <footer id="menu2">
+        <div class="container">
+           
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="socio-menu">
+
+
+
+                        <a class="socio-item" href="https://www.instagram.com/hoodie_ukrainian/"><i
+                                class="fa-brands fa-instagram"></i></a>
+
+                        <a class="socio-item2" href="https://www.facebook.com/"><i
+                                class="fa-brands fa-facebook-square"></i></a>
+
+                                <a class="socio-item3" href="https://www.tiktok.com/@hoodie_ukrainian?_t=8iaRa809jjq&_r=1"><i class="fa-brands fa-tiktok"></i></a>
+
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="text">
+                        <p></p>
+                       
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/dd931ad54f.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
